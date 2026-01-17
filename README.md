@@ -1,16 +1,35 @@
-## Hi there 👋
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=300&section=header&text=hello&fontSize=70&fontAlignY=35&animation=twinkling&desc=Full-Stack%20AI%20Engineer%20&descAlignY=55&descAlign=50" />
+</div>
 
-<!--
-**ongtzewei/ongtzewei** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <a href="https://github.com/yourusername">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=500&color=2E9EF7&center=true&vCenter=true&multiline=true&width=600&height=100&lines=2+decades+in+software;mobile|animation|agritech|healthcare|martech;currently+into+ai%2Bweb3" alt="Typing SVG" />
+  </a>
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ongtzewei&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
+
+### 📈 Contribution Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ongtzewei&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" />
+</p>
+
+
+### 🎯 Beyond Code
+
+When I'm not coding, you'll find me either trading or running.
+
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer" />
+</div>
