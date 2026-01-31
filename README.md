@@ -1,6 +1,6 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=300&section=header&text=hello&fontSize=70&fontAlignY=35&animation=twinkling&desc=Full-Stack%20AI%20Engineer%20&descAlignY=55&descAlign=50" />
-</div>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=300&section=header&text=hello&fontSize=70&fontAlignY=35&animation=twinkling&desc=i%27m%20a%20full-stack%20ai%20engineer&descAlignY=55&descAlign=50" />
+</div
 
 <p align="center">
   <a href="https://github.com/yourusername">
