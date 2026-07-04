@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://github.com/yourusername">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=500&color=2E9EF7&center=true&vCenter=true&multiline=true&width=600&height=100&lines=2+decades+in+software;mobile|animation|agritech|healthcare|martech;currently+into+ai%2Bweb3" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=350&color=2E9EF7&center=true&vCenter=true&multiline=true&width=750&height=120&lines=2+decades+in+software;mobile|animation|agritech|healthcare|martech|maritime;currently+into+ai%2Bweb3" alt="Typing SVG" />
   </a>
 </p>
 
